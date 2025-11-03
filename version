@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "release_date": "2025-11-03",
+  "download_url": "https://pixeldrain.com/api/file/YR2r62hx",
+  "changelog": [
+    "Added auto-update system",
+    "Improved anti-cheat bypass with SendInput API",
+    "Enhanced UI with update notifications",
+    "Fixed minor bugs and performance improvements"
+  ],
+  "min_version": "1.0",
+  "force_update": false
+}
