@@ -7,5 +7,5 @@
     "Fixed minor bugs and performance improvements"
   ],
   "min_version": "1.0",
-  "force_update": true
+  "force_update": false
 }
